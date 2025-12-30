@@ -1,0 +1,14 @@
+command:
+  name: 
+    general:
+    additional:
+      -
+  title: 
+  description: 
+
+venv: 
+  entry:
+  
+requirements:
+  os: 
+    - 
