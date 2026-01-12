@@ -1,0 +1,11 @@
+shell:
+  name: kernel
+
+startup:
+  message: null
+  commands:
+    - null
+
+paths:
+  commands: cmd
+  temp: tmp

@@ -1,0 +1,14 @@
+command:
+  name: 
+    general: exit
+    additional:
+      - 
+  title: 
+  description: 
+
+venv: 
+  entry: main.py
+  
+requirements:
+  os: 
+    - Windows
